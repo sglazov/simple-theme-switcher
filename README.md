@@ -2,6 +2,7 @@
 
 ## Смотрите живые примеры _(и присылайте примеры тоже)_
 * https://www.aviasales.ru/
+* https://overreacted.io/
 * https://govorov.online/
 * https://bespoyasov.ru/front-not-pain/
 
