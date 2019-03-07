@@ -5,6 +5,7 @@
 * https://overreacted.io/
 * https://govorov.online/
 * https://bespoyasov.ru/front-not-pain/
+* https://bash.im/
 
 ## Ещё на эту тему 🔥 🔥 🔥 🔥 🔥
 * https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode
