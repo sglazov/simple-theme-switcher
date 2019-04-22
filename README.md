@@ -13,3 +13,6 @@
 * https://medium.com/p/3518dde2955a
 * https://blog.1password.com/from-dark-to-light-and-back-again/
 * https://developer.mozilla.org/ru/docs/Web/API/Window/matchMedia
+* https://medium.com/p/5a3744105c74
+* https://habr.com/ru/company/yandex/blog/446780/
+* https://mefody.github.io/talks/dark-themes/
