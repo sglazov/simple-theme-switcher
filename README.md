@@ -16,3 +16,4 @@
 * https://medium.com/p/5a3744105c74
 * https://habr.com/ru/company/yandex/blog/446780/
 * https://mefody.github.io/talks/dark-themes/
+* https://habr.com/ru/company/vk/blog/449720/
