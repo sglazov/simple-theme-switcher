@@ -17,3 +17,4 @@
 * https://habr.com/ru/company/yandex/blog/446780/
 * https://mefody.github.io/talks/dark-themes/
 * https://habr.com/ru/company/vk/blog/449720/
+* https://dev.wgao19.cc/2019-05-04__sun-moon-blending-mode/
