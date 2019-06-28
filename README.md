@@ -15,6 +15,6 @@
 * https://developer.mozilla.org/ru/docs/Web/API/Window/matchMedia
 * https://medium.com/p/5a3744105c74
 * https://habr.com/ru/company/yandex/blog/446780/
-* https://mefody.github.io/talks/dark-themes/
+* Видео: Тёмная сторона веба, Никита Дубко: https://youtu.be/inJbZ1WFfQA, слайды: https://mefody.github.io/talks/dark-themes/
 * https://habr.com/ru/company/vk/blog/449720/
 * https://dev.wgao19.cc/2019-05-04__sun-moon-blending-mode/
