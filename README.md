@@ -18,3 +18,4 @@
 * Видео: Тёмная сторона веба, Никита Дубко: https://youtu.be/inJbZ1WFfQA, слайды: https://mefody.github.io/talks/dark-themes/
 * https://habr.com/ru/company/vk/blog/449720/
 * https://dev.wgao19.cc/2019-05-04__sun-moon-blending-mode/
+* https://webkit.org/blog/8840/dark-mode-support-in-webkit/
